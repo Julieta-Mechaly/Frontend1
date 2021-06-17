@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(197, 201, 202);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#imagen-principal {
+
+        width:200px;
+        margin:auto;
+        padding: 20px;
+        display: block;  
+    }
+
+
+    h1 {
+    background-color: rgb(161, 161, 161);
+    padding: 5px;
+    text-align: center;
+}
+
+#cuerpo {
+    margin:auto;
+    margin-top: 4rem;
+    width: 1000px;
+}
+
+ul{
+    line-height: 30px;
+}
+
+h2{
+    background-color: rgb(161, 161, 161);
+    padding: 5px;
+    font-size: 22px;
+
+}
+h3{
+    font-size: 20px;
+    display: inline;
+}
+
+span{
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+
+footer {
+    background-color: rgb(161, 161, 161);
+    text-align: center;
+    margin-top: 8rem;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#logo-insta {
+
+    padding: 10px;
+    vertical-align: middle;
+    width: 30px; 
+}
+#logo-linkedin {
+
+    padding: 10px;
+    vertical-align: middle;
+    width: 30px; 
+}
